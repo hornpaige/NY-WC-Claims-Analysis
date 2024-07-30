@@ -2,7 +2,9 @@
 ## New York | 2018 - 2021
 
 ### Project Overview
-Conducted an analysis in SQL and Python to find insights on claims data submitted to the New York State Worker's Compensation Board containing over 3500 recrods. Built performance dashboard in Tableau to visualize trends related to claim frequency, severity of injury, and industry. Insights are geared towards management, underwriting, and actuarial teams.
+Conducted an analysis in SQL and Python to find insights on claims data submitted to the New York State Worker's Compensation Board containing over 375,000 records. Built performance dashboard in Tableau to visualize trends related to claim frequency, severity of injury, and industry. Insights are geared towards management, underwriting, and actuarial teams.
+
+<img width="1207" alt="NY_WC_Claims_Dashboard" src="https://github.com/user-attachments/assets/1bc50b53-fcbe-40ae-89f2-0107974f6ed6">
 
 ### Link to Tableau Dashboard: https://public.tableau.com/app/profile/paige.horn/viz/ClaimsDashboardWorkersCompNY2018-2021/ClaimsDashboard
 
